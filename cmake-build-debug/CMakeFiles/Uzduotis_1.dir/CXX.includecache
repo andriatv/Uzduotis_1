@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo/CLionProjects/Uzduotis 1/Gyventojai.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/Lenovo/CLionProjects/Uzduotis 1/Meniu.h
+iostream
+-
+
+C:/Users/Lenovo/CLionProjects/Uzduotis 1/Skaiciai.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+C:/Users/Lenovo/CLionProjects/Uzduotis 1/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+Gyventojai.h
+C:/Users/Lenovo/CLionProjects/Uzduotis 1/Gyventojai.h
+Skaiciai.h
+C:/Users/Lenovo/CLionProjects/Uzduotis 1/Skaiciai.h
+Meniu.h
+C:/Users/Lenovo/CLionProjects/Uzduotis 1/Meniu.h
+
